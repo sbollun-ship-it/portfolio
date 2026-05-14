@@ -1,6 +1,6 @@
-# My Portfolio
+# Sulekha - Full Stack Developer Portfolio
 
-A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS.
+A modern, responsive portfolio website showcasing Sulekha's skills in AWS, Power BI, Tableau, SQL, and Python.
 
 ## Features
 
@@ -13,11 +13,9 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 
 ## Tech Stack
 
-- **Framework**: Next.js 14
-- **UI Library**: React 18
-- **Styling**: Tailwind CSS
-- **Language**: TypeScript
-- **Animation**: Framer Motion
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Skills Featured**: AWS, Power BI, Tableau, SQL, Python
+- **Design**: Modern dark theme with responsive design
 
 ## Getting Started
 
